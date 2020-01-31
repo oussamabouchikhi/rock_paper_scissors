@@ -6,3 +6,6 @@
 - CSS
 - JavaScript
 - [atom.io](https://atom.io/)
+
+## License 
+This project is under [MIT](https://opensource.org/licenses/MIT) license.
